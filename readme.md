@@ -1,3 +1,3 @@
 # Git and github course
 
-Blabblabbla
+Slider
